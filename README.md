@@ -19,5 +19,6 @@ Here are some of the blogs and articles I’ve written (published under my compa
 - [Trust Bank Breach: High Stakes in Red Team Simulation](https://www.linkedin.com/pulse/trust-bank-breach-high-stakes-red-team-simulation-cyberwarfarelabs-6uvff/?trackingId=h1DlfGwU4gm4jiJlaKWPvA%3D%3D)
 - [How Infinity Platform Helps Professionals Land High-Paying Cybersecurity Roles](https://www.linkedin.com/pulse/how-infinity-platform-helps-professionals-land-high-paying-0j2wc/?trackingId=VAdHC1UxtDkXrlAk60mZSg%3D%3D)
 - [Cluster Cipher: Uncovering GKE Endpoints from Kubernetes Tokens](https://www.linkedin.com/pulse/cluster-cipher-uncovering-gke-endpoints-from-kubernetes-3bzxf/?trackingId=Gi3Td6uolJWH7oRkMQxOTA%3D%3D)
-  -[Why We Built the Infinity Learning Platform](https://www.linkedin.com/pulse/why-we-built-infinity-learning-platform-cyberwarfarelabs-oodxf/?trackingId=JG%2Bg%2FAMJKbvcCFgRJ4j8YA%3D%3D)
+-[Why We Built the Infinity Learning Platform](https://www.linkedin.com/pulse/why-we-built-infinity-learning-platform-cyberwarfarelabs-oodxf/?trackingId=JG%2Bg%2FAMJKbvcCFgRJ4j8YA%3D%3D)
+
 👉 I’ll keep updating this as I publish more work.  
